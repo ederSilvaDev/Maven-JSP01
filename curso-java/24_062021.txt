@@ -1,0 +1,9 @@
+###################################################################
+Criar Servets 
+	1 - Criar um Novo "Server" informando o tipo de Server desejado, pode ser em Apache > Tomcat, Red Hat > Jboss.
+	2 - Criar o Projeto Dynamic Web Project, marcar pra criar o "XML"; 
+	3 - Converte com o botão direito sobre o projeto Configure > Convert to Maven Project.
+	
+	
+	
+		<h4>${msg}</h4>
